@@ -10,7 +10,7 @@
   --BLACK: #121214;
   --WHITE: #FFFF;
 
-  --BASE-COLOR: 250;
+  --BASE-COLOR: 20;
   --BLUE-LIGHT: hsl(var(--BASE-COLOR), 100%, 63%);
   --BLUE-TRANSPARENT-122: hsla(var(--BASE-COLOR), 100%, 63%, 0.122);
 
