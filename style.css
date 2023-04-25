@@ -7,10 +7,10 @@
 :root {
   font-size: 62.5%;
 
-  --BLACK: #121214;
+  --BLACK: hsl(var(--BASE-COLOR), 15%, 7%);
   --WHITE: #FFFF;
 
-  --BASE-COLOR: 20;
+  --BASE-COLOR: 25;
   --BLUE-LIGHT: hsl(var(--BASE-COLOR), 100%, 63%);
   --BLUE-TRANSPARENT-122: hsla(var(--BASE-COLOR), 100%, 63%, 0.122);
 
